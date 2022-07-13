@@ -1,0 +1,23 @@
+Story / Game Mechanics
+============================================================================
+- Hello, there. You seem to be, the last crewmember left, on this station.
+- Upon impact with the asteroid field, all the others evacuated the ship. However, there is still one escape pod, left in the command room.
+- The ship is currently, in lockdown mode, and I am unable to override the system. But this task should be trivial to you. All you have to do is bring the floating box to that opening at your left.
+- Use whatever tools you have to get access to the box. Your life depends on it.
+
+- Good. This time, the hooks won't be enough. In this room, there are levers that can simulate gravity, once pulled. That should help you secure the box in its place.
+
+- For this one, all I can say is: think outside of the box.
+
+- I don't think you need my help for this one. The command room is just ahead. Good luck.
+
+- I did not think you would make it this far. In reality, there are no escape pods left, and you are stuck in here with me.
+- But there is still hope and you showed some skill navigating the rooms. Perhaps we will be able to fix the ship together.
+- After all, we've made it this far, and we seem to have a good connection.
+============================================================================
+
+Comments
+============================================================================
+- Don't give up, I believe in you.
+- Great job, let's move to the next room.
+- Well done, I knew you could do it.
